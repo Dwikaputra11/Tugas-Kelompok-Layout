@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_for_you"
+        android:icon="@drawable/ic_baseline_emoji_people_24"
+        android:title="Untuk Anda" />
+
+    <item
+        android:id="@+id/menu_judul"
+        android:icon="@drawable/ic_language_black_24dp"
+        android:title="Judul" />
+
+    <item
+        android:id="@+id/menu_favorite"
+        android:icon="@drawable/ic_baseline_star_border_24"
+        android:title="Favorit" />
+
+    <item
+        android:id="@+id/menu_kios"
+        android:icon="@drawable/ic_baseline_library_books_24"
+        android:title="Kios" />
+</menu>
