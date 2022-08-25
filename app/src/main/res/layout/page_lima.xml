@@ -92,11 +92,20 @@
         app:layout_constraintStart_toStartOf="@+id/tv_hiburan"
         app:layout_constraintTop_toBottomOf="@id/tv_hiburan">
 
-        <View
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:background="@drawable/circular"
-            android:backgroundTint="#FB8C00" />
+            app:cardCornerRadius="50dp"
+            >
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/cpp"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                />
+        </androidx.cardview.widget.CardView>
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
@@ -110,11 +119,20 @@
         app:layout_constraintStart_toEndOf="@+id/view_logo_1"
         app:layout_constraintTop_toTopOf="@+id/view_logo_1">
 
-        <View
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:background="@drawable/circular"
-            android:backgroundTint="#FB8C00" />
+            app:cardCornerRadius="50dp"
+            >
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/java"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                />
+        </androidx.cardview.widget.CardView>
     </androidx.cardview.widget.CardView>
 
     <ImageButton
@@ -141,11 +159,20 @@
         app:layout_constraintStart_toEndOf="@+id/view_logo_2"
         app:layout_constraintTop_toTopOf="@+id/view_logo_2">
 
-        <View
-            android:layout_width="100dp"
-            android:layout_height="100dp"
+        <androidx.cardview.widget.CardView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:background="@drawable/circular"
-            android:backgroundTint="#FB8C00" />
+            app:cardCornerRadius="50dp"
+            >
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/js"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                />
+        </androidx.cardview.widget.CardView>
     </androidx.cardview.widget.CardView>
 
     <ImageButton
@@ -262,10 +289,10 @@
         app:layout_constraintTop_toBottomOf="@+id/textView9">
 
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:layout_gravity="center"
-            android:src="@mipmap/ic_launcher_round"
+            android:src="@drawable/logo_1"
             />
 
     </androidx.cardview.widget.CardView>
@@ -294,10 +321,10 @@
         app:layout_constraintStart_toEndOf="@+id/view_logo_food_1"
         app:layout_constraintTop_toTopOf="@id/view_logo_food_1">
         <ImageView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
             android:layout_gravity="center"
-            android:src="@mipmap/ic_launcher_round"
+            android:src="@drawable/logo_2"
             />
     </androidx.cardview.widget.CardView>
 
@@ -428,7 +455,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Profile"
+                        android:text="Favorit"
                         android:textAlignment="center" />
                 </LinearLayout>
 
@@ -449,7 +476,7 @@
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Profile"
+                        android:text="Kios"
                         android:textAlignment="center" />
                 </LinearLayout>
 
