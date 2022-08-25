@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TestGit</string>
+    <string name="favorit">Favorit</string>
+    <string name="sumber">Sumber</string>
+    <string name="tambahkan_sumber">Tambahkan Sumber</string>
+    <string name="image_user">image_user</string>
+    <string name="topik">Topik</string>
+    <string name="anda_tidak_mengikuti_ntopik_apa_pun_ntambahkan_topik_untuk_nmelihat_artikel_lainnya_ntentang_topik_tersebut_ndi_feed_untuk_anda">Anda tidak mengikuti\ntopik apa pun.\nTambahkan topik untuk\nmelihat artikel lainnya\ntentang topik tersebut\ndi feed Untuk Anda.</string>
+    <string name="img_topik">img_topik</string>
+    <string name="tambahkan_topik">Tambahkan Topik</string>
+    <string name="anda_tidak_mengikuti_nsumber_apa_pun_ntambahkan_sumber_untuk_nmelihat_artikel_lainnya_ntentang_sumber_tersebut_ndi_feed_untuk_anda">Anda tidak mengikuti\nsumber apa pun.\nTambahkan sumber untuk\nmelihat artikel lainnya\ntentang sumber tersebut\ndi feed Untuk Anda.</string>
 </resources>
