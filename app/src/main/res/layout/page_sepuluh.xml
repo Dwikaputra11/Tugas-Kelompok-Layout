@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:background="#171717"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+   <LinearLayout
+       android:id="@+id/linear_hp"
+       android:background="#323433"
+       android:gravity="center"
+       android:layout_width="match_parent"
+       android:layout_height="310dp">
+       <ImageView
+           android:background="@drawable/hp_page_sepuluh"
+           android:layout_width="130dp"
+           android:layout_height="270dp"/>
+   </LinearLayout>
+
+    <LinearLayout
+        android:layout_below="@+id/linear_hp"
+        android:padding="20dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="Bagaimana cara mengambil foto\nmenggunakan Stiker AR?"
+            android:textColor="@color/white"
+            android:textStyle="bold"
+            />
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="20dp">
+            <Button
+                android:textSize="12dp"
+                android:textColor="#2B3682"
+                android:textAllCaps="false"
+                android:text="Kamera"
+                android:background="@drawable/button_kamera"
+                android:layout_width="100dp"
+                android:layout_height="17dp"/>
+                <ImageButton
+                    android:backgroundTint="#323433"
+                    android:layout_marginLeft="20dp"
+                    android:background="@drawable/ic_baseline_remove_red_eye_24"
+                    android:layout_width="17dp"
+                    android:layout_height="17dp"/>
+            <TextView
+                android:layout_marginLeft="5dp"
+                android:textColor="#CDCDCD"
+                android:text="1594K"
+                android:textSize="12dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="20dp"
+            android:textColor="@color/white"
+            android:textSize="17dp"
+            android:text="Buka Kamera> Lainnya > Stiker AR. Ketuk ikon\nStiker disudut kanan bawah, pilih stiker pilihan\nAnda, dan ambil foto."
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <Button
+            android:layout_marginTop="20dp"
+            android:textColor="@color/white"
+            android:text="Cobalah sekarang"
+            android:background="@drawable/custom_button"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"/>
+    </LinearLayout>
+    <RelativeLayout
+        android:background="#202020"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="100dp">
+        <LinearLayout
+            android:gravity="center"
+            android:layout_alignParentBottom="true"
+            android:background="#171717"
+            android:layout_width="match_parent"
+            android:layout_height="99dp">
+
+            <ImageButton
+                android:backgroundTint="#A3A3A3"
+                android:background="@drawable/ic_like"
+                android:layout_width="30dp"
+                android:layout_height="30dp"/>
+            <TextView
+                android:layout_marginLeft="8dp"
+                android:layout_marginTop="5dp"
+                android:textSize="20dp"
+                android:textColor="@color/white"
+                android:text="Suka: 19K"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+
+</RelativeLayout>

@@ -179,9 +179,9 @@
         android:background="@color/white">
         <ImageButton
             android:layout_marginRight="70dp"
-            android:background="@drawable/ic_baseline_emoji_people_24"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:background="@drawable/ic_icon_untuk_anda"
+            android:layout_width="20dp"
+            android:layout_height="20dp"/>
         <ImageButton
             android:layout_marginRight="30dp"
             android:background="@drawable/ic_language_black_24dp"
@@ -194,7 +194,7 @@
             android:layout_height="wrap_content"/>
         <ImageButton
             android:layout_marginLeft="70dp"
-            android:background="@drawable/ic_baseline_library_books_24"
+            android:background="@drawable/bookshelf"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 
@@ -207,7 +207,6 @@
         android:layout_height="wrap_content">
         <TextView
             android:layout_marginLeft="10dp"
-            android:drawableLeft=""
             android:text="Untuk Anda"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
@@ -223,13 +222,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
             <TextView
-                android:layout_marginRight="45dp"
-                android:drawableLeft=""
+                android:layout_marginRight="43dp"
                 android:text="Untuk Anda"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
             <TextView
-                android:layout_marginRight="30dp"
+                android:layout_marginRight="34dp"
                 android:text="Kios"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"/>
