@@ -8,4 +8,6 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="blue_txt">#4880CD</color>
+    <color name="gray_border">#292929</color>
+    <color name="version">#777777</color>
 </resources>
