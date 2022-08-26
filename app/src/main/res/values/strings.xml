@@ -9,4 +9,17 @@
     <string name="img_topik">img_topik</string>
     <string name="tambahkan_topik">Tambahkan Topik</string>
     <string name="anda_tidak_mengikuti_nsumber_apa_pun_ntambahkan_sumber_untuk_nmelihat_artikel_lainnya_ntentang_sumber_tersebut_ndi_feed_untuk_anda">Anda tidak mengikuti\nsumber apa pun.\nTambahkan sumber untuk\nmelihat artikel lainnya\ntentang sumber tersebut\ndi feed Untuk Anda.</string>
+
+    <string name="suka_18k">Suka: 18K</string>
+    <string name="tanpa_notif">Bagaimana cara memainkan game tanpa terganggu notifikasi atau panggilan telepon?</string>
+    <string name="judul_bawah">1/19</string>
+    <string name="judul">Pengaturan</string>
+    <string name="btn_pengaturan">Pengaturan</string>
+    <string name="jumlah_lihat">1004K</string>
+    <string name="isi_utama"><![CDATA[Buka Pengaturan > Mode Game Ultra, lalu nyalakan Bisukan notifikasi dan Panggilan latar belakang. Anda dapat menikmati pengalaman bermain game penuh tanpa perlu terganggu oleh panggilan masuk atau notifikasi.]]></string>
+    <string name="pengaturan_dbl">Pengaturan</string>
+    <string name="petunjuk_pg">Petunjuk bagi Pengguna</string>
+    <string name="periksa_pb">Periksa pembaruan</string>
+    <string name="versi_si">Versi saat ini: V1.3.2.0</string>
+    <string name="umpan_balik">Umpan Balik</string>
 </resources>
