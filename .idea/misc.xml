@@ -3,30 +3,37 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/KULIAH UNIVERSITAS MUSLIM INDONESIA/MATAKULIAH/SEMESTER 5/KAMPUS MERDEKA/TestGit/app/src/main/res/layout/layout_rizal.xml" value="0.16" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_baseline_emoji_people_24.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_baseline_library_books_24.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_baseline_list_24.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_baseline_star_border_24.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_baseline_star_outline_24.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_baseline_title_24.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_dot_vertikal.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_konteks.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_language_black_24dp.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/layout/layout_dwika.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/layout/layout_enam_fani.xml" value="0.22" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/layout/layout_satu.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/layout/layout_satu_fani.xml" value="0.1" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/layout/layout_sembilan.xml" value="0.16666666666666666" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/layout/page_delapan.xml" value="0.1308876811594203" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/layout/page_enam.xml" value="0.22" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/layout/page_sembilan.xml" value="0.14666666666666667" />
-        <entry key="..\:/KotlinApp/CH2/TestGit/app/src/main/res/layout/page_sepuluh.xml" value="0.1308876811594203" />
-        <entry key="..\:/Users/acer/AndroidStudioProjects/TestGit/app/src/main/res/layout/layout_farhan.xml" value="0.2210144927536232" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/drawable/border_news_shape.xml" value="0.1855" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/drawable/circular.xml" value="0.159" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/drawable/circular_active.xml" value="0.1855" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/drawable/custom_button.xml" value="0.1855" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/drawable/edit_text_shape.xml" value="0.1855" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1855" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/font/poppins.xml" value="0.2869791666666667" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/about.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/activity_main.xml" value="0.2557291666666667" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/coba_branch.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/latihan_layout_dwika.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/layout_dwika.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/layout_enam.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/layout_farhan.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/layout_rizal.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/layout_satu.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/page_delapan.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/page_dua.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/page_dua_belas.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/page_empat.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/page_lima.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/page_sembilan.xml" value="0.22826086956521738" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/page_sepuluh.xml" value="0.264" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/page_tiga.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/layout/page_tujuh.xml" value="0.22826086956521738" />
+        <entry key="..\:/dev/AndroidStudioProjects/Binar Academy/TestGit/app/src/main/res/menu/menu_page_tiga.xml" value="0.25677083333333334" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/Binar Academy/TestGit/app/src/main/res/drawable/circular.xml" value="0.1855" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/Binar Academy/TestGit/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/Binar Academy/TestGit/app/src/main/res/layout/latihan_layout_dwika.xml" value="0.22826086956521738" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/Binar Academy/TestGit/app/src/main/res/layout/layout_dwika.xml" value="0.1721311475409836" />
+        <entry key="..\:/dev/AndroidStudioProjects/Tutorial/Binar Academy/TestGit/app/src/main/res/layout/layout_farhan.xml" value="0.22826086956521738" />
       </map>
     </option>
   </component>
@@ -35,5 +42,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.22826086956521738" />
+      </ProjectState>
+    </option>
   </component>
 </project>
