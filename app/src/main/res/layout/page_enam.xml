@@ -187,23 +187,20 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <com.google.android.material.bottomappbar.BottomAppBar
-            android:id="@+id/bottomAppBar"
-            android:layout_width="409dp"
+            android:id="@+id/bottom_app_bar"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="bottom"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent">
+            android:backgroundTint="#f6f6f6">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:layout_marginEnd="12dp"
-                android:gravity="center"
-                android:baselineAligned="false">
+                android:gravity="center">
 
                 <LinearLayout
-                    android:id="@+id/btn_for"
+                    android:id="@+id/btn_home"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="0.2"
@@ -214,21 +211,17 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_weight="1"
-                        app:srcCompat="@drawable/study"
-                        android:contentDescription="TODO" />
+                        app:srcCompat="@drawable/study" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1"
                         android:text="Untuk Anda"
-                        android:textAlignment="center"
-
-                        />
+                        android:textAlignment="center" />
                 </LinearLayout>
 
                 <LinearLayout
-                    android:id="@+id/btn_judul"
+                    android:id="@+id/btn_invisible"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="0.2"
@@ -253,7 +246,7 @@
 
 
                 <LinearLayout
-                    android:id="@+id/btn_invisible"
+                    android:id="@+id/btn_profile"
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
                     android:layout_weight="0.2"
@@ -264,14 +257,13 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_weight="1"
-                        app:srcCompat="@drawable/star" />
+                        app:srcCompat="@drawable/ic_baseline_star_border_24" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:text="Favorit"
-                        android:textAlignment="center"
-                        android:textColor="#1976D2" />
+                        android:textAlignment="center" />
                 </LinearLayout>
 
                 <LinearLayout
@@ -283,11 +275,10 @@
 
                     <ImageView
                         android:layout_width="50dp"
-                        android:layout_height="0dp"
+                        android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:layout_weight="1"
-                        app:srcCompat="@drawable/bookshelf"
-                        android:contentDescription="kios" />
+                        app:srcCompat="@drawable/bookshelf" />
 
                     <TextView
                         android:layout_width="match_parent"
@@ -297,8 +288,10 @@
                 </LinearLayout>
 
             </LinearLayout>
+
         </com.google.android.material.bottomappbar.BottomAppBar>
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
